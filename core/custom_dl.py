@@ -1,0 +1,1 @@
+# a file with image path and domain path is provided as input
